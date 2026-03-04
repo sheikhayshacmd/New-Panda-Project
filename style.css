@@ -39,7 +39,7 @@
 .banner-btn{
     width: 150px;
     padding: 10px 40px;
-    background-color: #ff1b74;
+    background-image: linear-gradient(to top,#ff1b74,pink);
     border: none;
     border-radius: 5px;
     color: white;
@@ -139,7 +139,8 @@
 .btn-send{
     width: 70px;
     border: none;
-    background-color: #ff1b74;
+    background-image: linear-gradient(to top,#ff1b74,pink);
+    
     border-radius: 5px 0 0 5px;
     color: #fff;
 }
