@@ -144,7 +144,7 @@
     border-radius: 5px 0 0 5px;
     color: #fff;
 }
-.media serceen and (max-width: 576Px){
+.media screen and (max-width:576Px){
 .main-container{
 max-width: 476px;}
 .banner-container{
@@ -167,6 +167,7 @@ width: 100%
 }
 .newsletter-container{
 Padding:50px 0;
-flex-direction: column;
+flex-direction: column;}
     
 }
+
