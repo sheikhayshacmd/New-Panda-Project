@@ -105,13 +105,13 @@
 }
 .shoe-btn{
     width: 150px;
-    padding: 10px 20 px;
+    padding: 20px 50 px;
     background-color: #000;
     border: none;
     border-radius: 5px;
     color: white;
     text-transform: uppercase;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     cursor: pointer;
 }
 .newsletter-container{
@@ -145,13 +145,13 @@
 }
   @media screen and (max-width: 576px) { 
      .main-container{
-       max-width: 400px;  
+       max-width: 325px;  
      }   
       .banner-container{
          flex-direction: column-reverse; 
       }   
       .left-banner-section {
-          width: 90%;
+          width: 100%;
       }
      .right-banner-section{
           width: 100%;
