@@ -145,7 +145,7 @@
     width: 70px;
     border: none;
     background-image: linear-gradient(to top,#ff1b74,pink);
-    border-radius: 5px 0 0 5px;
+    border-radius: 5px 5px;
     color: #fff;
 }
   @media screen and (max-width: 576px) { 
