@@ -2,9 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
 *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana;
+}
 .main-container{
-    width: 1140px;
-    height: 500px;
+    width: 90%;
+    height: 1200px;
     margin: 0 auto;
     font-family: "Inter", sans-serif;
 }
@@ -105,19 +110,19 @@
 }
 .shoe-btn{
     width: 150px;
+    height: 30px;
     padding: 20px 50 px;
     background-color: #000;
     border: none;
     border-radius: 5px;
     color: white;
     text-transform: uppercase;
-    margin-bottom: 10px;
     cursor: pointer;
 }
 .newsletter-container{
     flex-direction: column;
-    gap: 20 px;
-    padding: 100px 150x;
+    gap: 20px;
+    padding: 100px 150px;
     margin: 100px 0;
     justify-content: center;
     align-items: center;
@@ -151,7 +156,7 @@
          flex-direction: column-reverse; 
       }   
       .left-banner-section {
-          width: 90%;
+          width: 100%;
       }
      .right-banner-section{
           width: 100%;
